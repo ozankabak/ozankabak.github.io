@@ -1,2 +1,3 @@
 # ozankabak.github.io
-GitHub Pages Repository
+
+GitHub Pages Repository for Personal Homepage
